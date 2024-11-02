@@ -3,5 +3,5 @@ name=HyperOS2
 version=0.0.0
 versionCode=20241102
 author=山河尽赠佳人
-description=更新Xiaomi 14 OS2.0.2.2Beta版本
+description=伪装2.0
 updateJson=http://raw.githubusercontent.com/naiheSH/RootManage-Module-Model/main/update.json
